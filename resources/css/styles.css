@@ -1,0 +1,13 @@
+@import './fonts/fonts.css';
+
+@import './normalize.css';
+
+@import "./settings.css";
+
+@import './blocks/header/header.css';
+
+@import './blocks/nav/nav.css';
+
+@import './blocks/breadcrumbs/breadcrumbs.css';
+
+@import './blocks/footer/footer.css';

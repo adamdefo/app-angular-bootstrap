@@ -1,4 +1,3 @@
-
 angular
   .module('FuckApp', [])
   .controller('MainCtrl', function ($scope, $rootScope, $location, $q, $http) {

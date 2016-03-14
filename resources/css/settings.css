@@ -1,19 +1,10 @@
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  word-wrap: break-word;
-  margin: 0;
-  padding: 0;
-}
-
 html, body {
     width: 100%;
 }
 
 body {
     background: #ffffff;
-    font: 400 100% "PT Sans", Arial, sans-serif;
+    font: 400 14px/1.5 "PT Sans", Arial, sans-serif;
     color: #000000;
 }
 
@@ -26,30 +17,7 @@ img {
     vertical-align: middle;
     border: 0;
 }
-
-p {
-  margin: 0 0 22.5px;
-}
-
-
-.red {
-  color: #CF0C0C;
-}
-
-h5 {
-  font-size: 0.92em;
-}
-h6 {
-  font-size: 0.83em;
-}
-.overflow {
-  overflow: hidden;
-}
-
-.container:after, 
-.container:before, 
-.row:after, 
-.row:before, 
+ 
 .clr:after, 
 .clr:before {
   content: '';
@@ -60,37 +28,22 @@ h6 {
   height: 0;
 }
 
-.container {
-  width: 1000px;
-  margin: 0 auto;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-.row {}
-
-.nobrd-b {
+/*.nobrd-b {
   border-bottom: none !important;
-}
+}*/
 
-.col{float:left;}
+/*.col{float:left;}
 .col-2{width:50%;}
 .col-3{width:33%;}.col-3:nth-child(3n){width:34%;}
 .col-4{width:25%;}
 .col-5{width:19.9%;}
-.col-6{width:16.6%;}
-
-.fll {float:left;}
-.flr {float:right;}
-.center {text-align: center;}
-.left {text-align:left;}
-.right {text-align:right;}
+.col-6{width:16.6%;}*/
 
 .logo {display: inline-block; vertical-align: middle; width: 293px; height: 100%;}
 .logo a {border: none;}
 .logo img {display: block; margin-top: 20px; width: 293px; height: 83px;}
 
-a {
+/*a {
   color: #0092dd;
   text-decoration: none;
   -webkit-transition: all 0.1s ease;
@@ -112,7 +65,7 @@ a.link {
 a.link:hover {
   color: #c52932;
   border-color: rgba(197, 41, 50, 0.3);
-}
+}*/
 
 .layout {
   width: 100%;

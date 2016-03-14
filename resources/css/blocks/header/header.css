@@ -2,6 +2,13 @@
   position: relative;
   background-color: #264471;
 }
+
+
+.header .navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
 .header__top {
   position: relative;
   height: 60px;

@@ -1,0 +1,8 @@
+.sidebar {
+  position: absolute;
+  background-color: #2A363B;
+  border-right: 1px solid #2a363b;
+  /*width: 279px;*/
+  min-height: calc(100vh - 120px);
+  overflow-y: auto;
+}

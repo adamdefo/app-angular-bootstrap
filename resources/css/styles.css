@@ -1,13 +1,11 @@
 @import './fonts/fonts.css';
 
-@import './normalize.css';
+@import './../bootstrap/css/bootstrap.min.css';
 
 @import "./settings.css";
 
 @import './blocks/header/header.css';
 
-@import './blocks/nav/nav.css';
-
-@import './blocks/breadcrumbs/breadcrumbs.css';
+@import './blocks/sidebar/sidebar.css';
 
 @import './blocks/footer/footer.css';
